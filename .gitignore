@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+.cache/
+*.log
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Environments and other secrets
+.env
+*.env
+
+# FastAPI related
+*.sqlite3
+
+# Python package files
+*.egg
+*.egg-info/
+dist/
+build/
+*.wheel
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Pytest cache
+.pytest_cache/
